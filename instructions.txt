@@ -1,8 +1,8 @@
 # This Repo is for vim configurations
-# 
+#
 # install amix vimrc from "https://github.com/amix/vimrc"
 #
-# then add this vcomments.vim file inside your "~/.vim_runtime" 
+# then add this vcomments.vim file inside your "~/.vim_runtime"
 # folder and add whats's below to "~/.vim_runtime/vimrcs/basic.vim"
 
 # """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -20,7 +20,7 @@
 #
 #
 #
-# adds this grep recursively for word under the cursor
+# adds this to grep recursively for a word under the cursor
 #
 # """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 # " => Thank you TomNomNom
